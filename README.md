@@ -181,6 +181,3 @@ Returns a list of all movie names directed by a specific director
 
 Use `npm install` to install the packages.
 
-**Export the express instance using the default export syntax.**
-
-**Use Common JS module syntax.**
